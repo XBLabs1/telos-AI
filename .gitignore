@@ -219,6 +219,7 @@ __marimo__/
 
 # Generated Data folder 
 telos_data/
+models/
 __pycache__/
 *.pyc
 .env
